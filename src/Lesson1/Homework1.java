@@ -7,6 +7,6 @@ public class Homework1 {
     }
 
     private static void task1(){
-        System.out.println("task1");
+        System.out.println("task1!");
     }
 }
